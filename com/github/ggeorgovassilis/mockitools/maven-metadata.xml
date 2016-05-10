@@ -3,9 +3,10 @@
   <groupId>com.github.ggeorgovassilis</groupId>
   <artifactId>mockitools</artifactId>
   <versioning>
+    <release>1.0-RELEASE</release>
     <versions>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0-RELEASE</version>
     </versions>
-    <lastUpdated>20141010202527</lastUpdated>
+    <lastUpdated>20160510140552</lastUpdated>
   </versioning>
 </metadata>
